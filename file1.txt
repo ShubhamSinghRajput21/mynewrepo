@@ -1,1 +1,2 @@
-This is first file and first input.
+This is first file and first input
+I am adding some changes to see difference between staged and unstaged file..
